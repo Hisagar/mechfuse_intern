@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">interntask</string>
+    <string name="navigation_drawer_open">Navigationsschublade öffnen</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_title">android.studio@android.com</string>
+    <string name="menu_gallery">Favoritenliste</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="hello">Hallo sagar</string>
+    <string name="menu_home">Zuhause</string>
+    <string name="home_second">Home Zweiter</string>
+    <string name="nav_header_desc">Navigationsheader</string>
+    <string name="action_settings">Sprache ändern</string>
+    <string name="menu_slideshow">Diashow</string>
+    <string name="selectLang">Sprache auswählen</string>
+    <string name="now_playinng">Läuft gerade</string>
+    <string name="upcoming">Bevorstehende</string>
+    <string name="genres">Genres</string>
+    <string name="vote_average">Durchschnittliche Abstimmung</string>
+    <string name="select_image">Bild auswählen</string>
+    <string name="release_date">Veröffentlichungsdatum</string>
+    <string name="overview">Überblick</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="update_profile">Profil aktualisieren</string>
+    <string name="update_info">aktualisieren</string>
+    <string name="menu_fav">Favoritenliste</string>
+</resources>

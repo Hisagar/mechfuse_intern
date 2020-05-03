@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">interntask</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Change Language</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_fav">Favourite List</string>
+    <string name="home_second">Home Second</string>
+    <string name="hello">Hello sagar</string>
+    <string name="selectLang">Select Language</string>
+    <string name="now_playinng">Now Playing</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="genres">Genres</string>
+    <string name="vote_average">Average Vote</string>
+    <string name="select_image">Select Image</string>
+    <string name="release_date">Realsed Date</string>
+    <string name="overview">Overview</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="update_info">Update</string>
+</resources>
